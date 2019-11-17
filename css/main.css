@@ -59,18 +59,18 @@ blockquote {
 header {
   padding-left: 1rem;
   padding-right: 1rem;
-  text-align: center;
+  text-align: left;
 }
 
 article {
-  text-align: center;
+  text-align: left;
 }
 
 h1,
 article {
   display: inline-block;
   vertical-align: middle;
-  text-align: center;
+  text-align: left;
 }
 
 h1 {
@@ -88,18 +88,18 @@ h1 {
   header {
     padding-left: 1rem;
     padding-right: 1rem;
-    text-align: center;
+    text-align: left;
   }
 
   article {
-    text-align: center;
+    text-align: left;
   }
 
   h1,
   article {
     display: inline-block;
     vertical-align: middle;
-    text-align: center;
+    text-align: left;
   }
 
   h1 {
@@ -118,7 +118,7 @@ h1 {
   header {
     padding-left: 1rem;
     padding-right: 1rem;
-    text-align: center;
+    text-align: left;
   }
 
   article {
@@ -129,7 +129,7 @@ h1 {
   article {
     display: inline-block;
     vertical-align: middle;
-    text-align: center;
+    text-align: left;
   }
 
   h1 {
