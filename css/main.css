@@ -71,7 +71,7 @@ blockquote {
   }
 
   h1,
-  nav {
+  article {
     display: inline-block;
     vertical-align: middle;
   }
