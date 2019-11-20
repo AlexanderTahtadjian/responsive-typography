@@ -33,6 +33,7 @@ article header {
 
 article header p {
   font-style: italic;
+  line-height: 1.3;
 }
 
 article > p:last-child {
