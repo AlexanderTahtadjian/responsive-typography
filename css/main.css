@@ -65,6 +65,7 @@ header {
 }
 body {
   display: flex;
+  margin:  auto 0;
 }
 
 h1,
