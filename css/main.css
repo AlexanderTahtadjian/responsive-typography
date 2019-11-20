@@ -63,6 +63,9 @@ header {
   padding-right: 1rem;
   text-align: left;
 }
+body {
+  display: flex;
+}
 
 h1,
 article {
