@@ -10,6 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: "Crimson Text", sans-serif;
 
   color: #222;
 }
@@ -113,9 +114,6 @@ h1 {
 
   h1,
   article {
-    display: inline-block;
-    vertical-align: middle;
-    font-family: "Crimson Text", sans-serif;
     text-align: left;
   }
 
